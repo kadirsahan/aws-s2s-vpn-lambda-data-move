@@ -13,7 +13,7 @@ else
 fi
 
 
-sudo docker login -u kadirsahan -p Ks^773549
+sudo docker login -u xxxxxxx -p xxxxxxxxx
 sudo docker pull emberstack/sftp
 
 # This configuration creates a user demo with the password demo. A directory "sftp" is created for each user in the own home and is accessible for read/write
